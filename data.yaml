@@ -1,0 +1,12 @@
+
+path: ../Vehicles
+train: images/train 
+val: images/val 
+
+
+
+names:
+    0: cars
+    1: bike
+  
+  
