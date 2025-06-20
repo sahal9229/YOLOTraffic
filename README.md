@@ -1,6 +1,6 @@
 # Vehicle Detection & Tracking Solution
 
-![Vehicle Detection Banner](https://raw.githubusercontent.com/your-username/your-repo/main/images/banner.jpg)
+
 
 ## Overview
 
