@@ -133,19 +133,18 @@ This project provides an optimized framework for detecting and tracking vehicles
 
 ## 🖼️ Output Example
 
-![Detection Sample](https://raw.githubusercontent.com/your-username/your-repo/main/images/sample_output.jpg)
+![Screenshot 2025-06-20 103748](https://github.com/user-attachments/assets/53434fbb-ed5f-4f39-bcc4-33cd5770d72a)
 
----
+
 
 ## 🧪 Output Mode Options
+![Screenshot 2025-06-20 102729](https://github.com/user-attachments/assets/93397c42-8662-4ca1-ab10-9d6745165ffe)
 
 1. **Default Video File**: Uses predefined path from the code.
 2. **Webcam Feed**: Live detection from your webcam.
 3. **Manual Input**: Paste your own video file path without quotes. Example:
+   (C:\Users\sahal\Downloads\video.mp4)
 
-```text
-C:\Users\sahal\Downloads\video.mp4
-```
 
 ---
 
